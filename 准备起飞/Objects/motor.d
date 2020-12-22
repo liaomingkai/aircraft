@@ -1,0 +1,34 @@
+.\objects\motor.o: DRIVER\Motor.c
+.\objects\motor.o: DRIVER\Motor.h
+.\objects\motor.o: .\CMSIS\stm32f4xx.h
+.\objects\motor.o: .\CMSIS\core_cm4.h
+.\objects\motor.o: D:\Keil5 MDK\keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\motor.o: .\CMSIS\core_cmInstr.h
+.\objects\motor.o: .\CMSIS\core_cmFunc.h
+.\objects\motor.o: .\CMSIS\core_cm4_simd.h
+.\objects\motor.o: .\CMSIS\system_stm32f4xx.h
+.\objects\motor.o: .\User_code\stm32f4xx_conf.h
+.\objects\motor.o: .\LIB\inc\stm32f4xx_adc.h
+.\objects\motor.o: .\CMSIS\stm32f4xx.h
+.\objects\motor.o: .\LIB\inc\stm32f4xx_crc.h
+.\objects\motor.o: .\LIB\inc\stm32f4xx_dbgmcu.h
+.\objects\motor.o: .\LIB\inc\stm32f4xx_dma.h
+.\objects\motor.o: .\LIB\inc\stm32f4xx_exti.h
+.\objects\motor.o: .\LIB\inc\stm32f4xx_flash.h
+.\objects\motor.o: .\LIB\inc\stm32f4xx_gpio.h
+.\objects\motor.o: .\LIB\inc\stm32f4xx_i2c.h
+.\objects\motor.o: .\LIB\inc\stm32f4xx_iwdg.h
+.\objects\motor.o: .\LIB\inc\stm32f4xx_pwr.h
+.\objects\motor.o: .\LIB\inc\stm32f4xx_rcc.h
+.\objects\motor.o: .\LIB\inc\stm32f4xx_rtc.h
+.\objects\motor.o: .\LIB\inc\stm32f4xx_sdio.h
+.\objects\motor.o: .\LIB\inc\stm32f4xx_spi.h
+.\objects\motor.o: .\LIB\inc\stm32f4xx_syscfg.h
+.\objects\motor.o: .\LIB\inc\stm32f4xx_tim.h
+.\objects\motor.o: .\LIB\inc\stm32f4xx_usart.h
+.\objects\motor.o: .\LIB\inc\stm32f4xx_wwdg.h
+.\objects\motor.o: .\LIB\inc\misc.h
+.\objects\motor.o: DRIVER\usart.h
+.\objects\motor.o: D:\Keil5 MDK\keil\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\motor.o: .\SYSTEM\sys.h
+.\objects\motor.o: .\SYSTEM\delay.h
